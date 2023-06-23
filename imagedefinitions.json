@@ -1,6 +1,6 @@
 [
     {
-      "name": "rakeshcontainer",
-      "imageUri": "XXXXXXXXXX.dkr.ecr.ap-south-1.amazonaws.com/html-nginx:latest"
+      "name": "tushararoracontainer",
+      "imageUri": "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME:$IMAGE_TAG"
     }
   ]
